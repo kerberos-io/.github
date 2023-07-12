@@ -8,9 +8,9 @@ It provides features to bring your own cloud (on-premise, hybrid, cloud), bring 
 
 ## A Kerberos.io architecture 📚
 
-Within Kerberos.io we support containerisation by default. This means that any solution you'll find below is shipped as a container on the platform you desire: Docker, Docker Compose, Kubernetes, OpenShift, as a static binary through various package manager such as Snap.
+Within Kerberos.io we support containerisation by default. This means that any solution you'll find below is shipped as a container on the platform you desire: Docker, Docker Compose, Kubernetes, OpenShift or as a static binary through various package manager such as Snap.
 
-Each component in the architecture can be installed where you want and combined.
+Each component in the Kerberos.io architecture can be installed how and where you want. This means you can create hybrid scenarios, or go for a full-cloud or full-onpremise deployment.
 
 - [Kerberos Agent](https://github.com/kerberos-io/agent)
 - [Kerberos Factory](https://github.com/kerberos-io/factory)
