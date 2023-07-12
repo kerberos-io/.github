@@ -4,7 +4,7 @@ Kerberos.io is a scalable video analytics and video management platform, build o
 
 It provides features to bring your own cloud (on-premise, hybrid, cloud), bring your own storage (Ceph, Minio, GCP, AWS, Azure, Storj, etc) and bring your own cameras (RTSP H264). You are the one who's running the show!
 
-![Kerberos Enterprise Suite Introduction Youtube](https://github.com/kerberos-io/.github/assets/1546779/8257bd57-1dfe-4f31-98f1-e555ba5f3afd)
+[![Kerberos Enterprise Suite Introduction Youtube](https://github.com/kerberos-io/.github/assets/1546779/8257bd57-1dfe-4f31-98f1-e555ba5f3afd)](https://www.youtube.com/watch?v=JzC8vJ0xZS0)
 
 ## A Kerberos.io architecture 📚
 
