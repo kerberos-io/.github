@@ -15,4 +15,4 @@ Each component in the Kerberos.io architecture can be installed how and where yo
 - [Kerberos Vault](https://github.com/kerberos-io/vault)
 - [Kerberos Hub](https://github.com/kerberos-io/hub)
 
-![Prologue - How it works](https://github.com/kerberos-io/.github/assets/1546779/9d11d7b4-019a-4245-a4b1-268ab5d67878)
+![Prologue - How it works](https://github.com/kerberos-io/.github/assets/1546779/68e18355-b7bb-4419-9e79-315b02e287d1)
