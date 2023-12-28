@@ -1,6 +1,6 @@
 ## Welcome to Kerberos.io 👋
 
-Kerberos.io comes with a range of solutions helping you to setup a small video surveillance deployment flawlessly, with just a few cameras, and scale out to a large enterprise deployment, with thousands of cameras. It provides features to bring your own cloud (on-premise, hybrid, cloud), bring your own storage (Ceph, Minio, GCP, AWS, Azure, Storj, etc) and bring your own cameras (RTSP H264). In other words, you run the show!
+Kerberos.io comes with a range of solutions helping you to setup a small video surveillance deployment flawlessly, with just a few cameras, and scale out to a large enterprise deployment, with thousands of cameras. It provides features to bring your own cloud (on-premise, hybrid, cloud), bring your own storage (Ceph, Minio, GCP, AWS, Azure, Storj, etc) and bring your own cameras (RTSP H264 and H265). In other words, you run the show!
 
 [![Kerberos Enterprise Suite Introduction Youtube](https://github.com/kerberos-io/.github/blob/main/profile/introduction.png)](https://www.youtube.com/watch?v=JzC8vJ0xZS0)
 
