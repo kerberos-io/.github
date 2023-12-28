@@ -6,7 +6,7 @@ Kerberos.io comes with a range of solutions helping you to setup a small video s
 
 ## A Kerberos.io architecture 📚
 
-Within Kerberos.io we support containerisation and scalability by default. This means that any solution you'll find in our solution stack is shipped as a container natively and on the platform you desire: Docker, Docker Compose, Kubernetes, OpenShift or as a static binary through various package manager such as Snap.
+Within Kerberos.io we support containerisation and scalability by default. This means that any solution you'll find in our solution stack is shipped as a container natively and on the platform you desire: Docker, Docker Compose, Kubernetes, OpenShift or as a static binary through various package manager such as Snap. You might also deploy our [Kerberos Agent](https://github.com/kerberos-io/agent) directly on your camera to avoid additional hardware.
 
 We are continuously working on the next innovation, [follow our current and future plans on our roadmap](https://github.com/kerberos-io/roadmap/projects/2).
 
