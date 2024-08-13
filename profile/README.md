@@ -1,5 +1,7 @@
 ## Welcome to Kerberos.io 👋
 
+[![Slack invite](https://img.shields.io/badge/join%20kerberos.io%20on%20slack-grey?style=for-the-badge&logo=slack)](https://joinslack.kerberos.io/)
+
 Kerberos.io comes with a range of solutions helping you to setup a small video surveillance deployment flawlessly, with just a few cameras, and scale out to a large enterprise deployment, with thousands of cameras. It provides features to bring your own cloud (on-premise, hybrid, cloud), bring your own storage (Ceph, Minio, GCP, AWS, Azure, Storj, etc) and bring your own cameras (RTSP H264 and H265). In other words, you run the show!
 
 [![Kerberos Enterprise Suite Introduction Youtube](https://github.com/kerberos-io/.github/blob/main/profile/introduction.png)](https://www.youtube.com/watch?v=HkMJHCsRd9M)
